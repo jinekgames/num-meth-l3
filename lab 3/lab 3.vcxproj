@@ -141,7 +141,6 @@
   <ItemGroup>
     <ClCompile Include="additionalMaths.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="main0.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="additionalMaths.h" />
