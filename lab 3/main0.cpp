@@ -28,7 +28,7 @@ int factorial(int n)
 	return f;
 }
 
-int main()
+int main1()
 {
 	// Number of values given
 	const int n = 6;
